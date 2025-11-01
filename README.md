@@ -1,4 +1,4 @@
-**Task 05 - Food Item Recognition and Calorie Estimation Model Using CNN**
+Food Item Recognition and Calorie Estimation Model Using CNN**
 
 **Dataset:** [[Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)](https://www.kaggle.com/datasets/dansbecker/food-101)
 
